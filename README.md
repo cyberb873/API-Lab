@@ -20,7 +20,7 @@ Each vulnerable endpoint is designed to teach common API exploitation techniques
 
 ```bash
 git clone https://github.com/cyberb873/API-Lab.git
-cd Packard-Tricks-Associate
+cd API-Lab
 
 2. Install dependencies
 
