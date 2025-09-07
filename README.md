@@ -3,8 +3,16 @@ An intentionally vulnerable API lab for practicing API security testing with Pos
 # HackerHunt-Lab API
 
 A CTF-style vulnerable API lab built with Flask for security learners to practice exploiting common vulnerabilities.
+ 🔑 Broken Authentication
+- 🔎 Insecure Direct Object Reference (IDOR)
+- 💉 SQL Injection
+- ⚡ Command Injection
+- 🕵️ Information Disclosure
+- 🌍 CORS Misconfiguration
+- 📂 File Upload Vulnerabilities
 
----
+Each vulnerable endpoint is designed to teach common API exploitation techniques in a **safe, controlled environment**.
+
 
 ## 🚀 Setup Instructions
 
